@@ -49,3 +49,5 @@ Above all three can be used by this nomenclature
 
 ![Screenshot (10).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1661704303429/N0vJquZUP.png align="left")
 
+**READ TILL HERE THANKS A BUNCH:)**
+
