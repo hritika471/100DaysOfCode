@@ -1,6 +1,6 @@
-## Full Stack Web Development Series!
+## Web Development Series!
 
-HEY DEVELOPERS! This is hritika and I'm curating this series for fellow developers who are willing to learn full stack web development. Basically this series inspired by on going course of web development by ANUJ BHAIYA [https://www.youtube.com/watch?v=4-A-Wxgp5KY](Link)
+HEY DEVELOPERS! This is hritika and I'm curating this series for fellow developers who are willing to learn web development. Basically this series inspired by on going course of web development by ANUJ BHAIYA [https://www.youtube.com/watch?v=4-A-Wxgp5KY](Link)
 
 Here I would be sharing crisp notes from his on going series alongwith his notes and also mine takeaways from the lectures. So lets begin our journey with the very basic question that how actually these websites work?
 
