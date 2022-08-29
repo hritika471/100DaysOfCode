@@ -1,4 +1,4 @@
-## Web Development Series!
+## Web Dev Series : html walkthrough!
 
 HEY DEVELOPERS! Today is day 2 of web development series where we are going to introduced with html which is hyper text markup language.
 
