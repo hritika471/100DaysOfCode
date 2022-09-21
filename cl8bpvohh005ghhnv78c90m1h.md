@@ -1,4 +1,4 @@
-## Ml Types On The Basis Of Model Training At Production
+## ML Types On The Basis Of Model Training At Production
 
 Hello troubleshooters! this article is a progressive part of the 100days of machine learning wherein in previous three days I have talked about what is ML, Types of ml and some more interesting stuff do check out them too. 
 Being a machine learning enthusiast it excites me every freaking time about how we would be deploying the machine model from the production phase to an end user but the question before that pops up is how actually ML models are classified on the basis of training at production level. Basically this classification derives two types in general , one is batch learning and the other one is online learning. In order to simplify this let's dig into the main ideology behind this question inch by inch.
