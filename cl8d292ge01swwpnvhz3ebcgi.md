@@ -1,4 +1,4 @@
-## Types Of Ml Model On The Basis Of Learning
+## Types Of ML Model On The Basis Of Learning
 
 Hello troubleshooters! this article is a progressive part of the series of 100days of machine learning do consider checking out the previous nodes of this on-going series where I tried to make the topics simpler from the scratch. In today's article we would discussing about the machine learning models on the basis of their learning behavior. Let's dig right into the topic : 
 
